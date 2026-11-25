@@ -6,3 +6,5 @@ Aquí iré guardando las prácticas del curso, una por sesión.
 - **51.361 commits**
 - **2450 contributors**
 - **Último cambios, hace 2 horas**
+
+| 02 | Mi primer notebook | [sesion-02-primer-notebook.ipynb](practicas/sesion-02-primer-notebook.ipynb) |
